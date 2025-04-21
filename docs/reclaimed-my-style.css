@@ -1,0 +1,13 @@
+html {
+    background: white;
+    color: black;
+    font-family: sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+        background: black;
+        color: white;
+        font-family: sans-serif;
+    }
+}
